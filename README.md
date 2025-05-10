@@ -16,11 +16,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,13 +30,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://youtu.be/jPPwD95kp28">View Demo</a>
-    ·
-    <a href="https://www.npmjs.com/package/genome-browser">View Package</a>
-    .
-    <a href="https://github.com/lebinh190998/genome-browser/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/lebinh190998/genome-browser/issues">Request Feature</a>
+
   </p>
 </div>
 
@@ -202,11 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
-## Contact
 
-Le Binh - [@lebinh1909](https://www.linkedin.com/in/binhle19/) - lebinh190998@gmail.com
-
-Project Link: [https://github.com/lebinh190998/porfolio](https://github.com/lebinh190998/genome-browser)
 
 <!-- Production: [https://lebinhporfolio.netlify.app/](https://lebinhporfolio.netlify.app/) -->
 <p align="right">(<a href="#top">back to top</a>)</p>
